@@ -1,0 +1,13 @@
+{
+  "name": "Smartcontract-Unit-Testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/vinhyenvodoi98/Smartcontract-Unit-Testing.git",
+  "author": "hoang <vinhyenvodoi98@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ethereumjs-testrpc": "^6.0.3",
+    "truffle": "^4.1.15",
+    "truffle-hdwallet-provider": "^1.0.11"
+  }
+}
