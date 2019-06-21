@@ -1,10 +1,10 @@
-Run testrpc
+Run loom
 
-    yarn testrpc -m "small failure organs crooks zero delivery fired extreme lost twenty alpha terror
+    ./loom run
 
 Create contract by this command
 
-    yarn truffle create contract myContract
+    yarn truffle create contract DappToken
 
 Deploy the ERC20 token contract to Testrpc
 

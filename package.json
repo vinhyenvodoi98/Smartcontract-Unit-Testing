@@ -6,9 +6,8 @@
   "author": "hoang <vinhyenvodoi98@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "chai": "^4.2.0",
-    "ethereumjs-testrpc": "^6.0.3",
-    "truffle": "^4.1.15",
-    "truffle-hdwallet-provider": "^1.0.11"
+    "fs": "^0.0.1-security",
+    "loom-truffle-provider": "^0.13.0",
+    "truffle": "^5.0.24"
   }
 }
