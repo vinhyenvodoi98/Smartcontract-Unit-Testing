@@ -8,6 +8,6 @@
   "dependencies": {
     "fs": "^0.0.1-security",
     "loom-truffle-provider": "^0.13.0",
-    "truffle": "^5.0.24"
+    "truffle": "4.1"
   }
 }
