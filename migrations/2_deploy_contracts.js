@@ -1,5 +1,5 @@
-var Token = artifacts.require('FixedSupplyToken');
+var DappToken = artifacts.require('./DappToken.sol');
 
 module.exports = function(deployer) {
-  deployer.deploy(Token);
+  deployer.deploy(DappToken, 1000000);
 };
