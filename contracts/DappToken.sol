@@ -74,7 +74,7 @@ contract DappToken {
     // update the balance
     balanceOf[_to] += _value;
 
-    allowance[_from][msg.sender] -=_value;
+    allowance[_from][msg.sender] -= _value;
     // transfer event
     emit Transfer(_from,_to,_value);
     // return a boolean

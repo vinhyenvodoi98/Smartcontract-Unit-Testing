@@ -8,6 +8,7 @@
   "dependencies": {
     "fs": "^0.0.1-security",
     "loom-truffle-provider": "^0.13.0",
-    "truffle": "4.1"
+    "truffle": "5.0.0",
+    "web3": "^1.0.0-beta.55"
   }
 }
